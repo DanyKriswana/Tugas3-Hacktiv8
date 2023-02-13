@@ -1,0 +1,33 @@
+.tittle{
+    padding-top: 110px;
+    padding-left: 300px;
+    color: #293462;
+    font-size: 50px;
+}
+h2{
+    margin-left: 300px;
+    color: #444444;
+}
+
+span{
+    color: #FF9494;
+}
+.konten{
+    margin-left: 300px;
+    margin-right: 20px;
+    text-align: justify;
+}
+.area-img{
+    display: flex;
+    float: left;
+    margin-left: 300px;
+}
+
+.area-img .linkedin{
+    height: 60px;
+    width: 60px;
+}
+.area-img .github{
+    height: 60px;
+    width: 60;
+}
